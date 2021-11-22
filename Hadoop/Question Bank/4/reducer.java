@@ -1,0 +1,5 @@
+package Hadoop.Question Bank.4;
+
+public class reducer {
+    
+}
